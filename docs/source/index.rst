@@ -15,5 +15,27 @@ Contents
 
 .. toctree::
 
-   Overview of feder
-   Installation & Set up
+   overview
+   installation
+   tutorials
+   contribution
+   reference
+
+Citation
+........
+
+Please cite **FedLab** in your publications if it helps your research:
+
+.. code:: latex
+    
+    @article{
+    }
+
+Contacts
+........
+
+Contact the **Feder** development team through Github issues or email:
+
+- efgh: efgh@gmail.com
+
+- abcd: abcd@gmail.com
