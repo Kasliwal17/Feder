@@ -46,11 +46,17 @@ Phase 1: FedAvg
 .. image:: ../imgs/phase1.png
    :align: center
 
+|
+|
+
 Establishing Connection between Server and Clients
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../imgs/connection.png
    :align: center
+
+|
+|
 
 Communication with clients
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
