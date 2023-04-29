@@ -63,3 +63,14 @@ Communication with clients
 
 .. image:: ../imgs/communication.png
    :align: center
+
+|
+|
+
+Fractional and random subsampling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* The Client_Manager can be used to sample the already connected clients.
+* A minimum number of clients can be provided, upon which the Client_Manager will wait for that many clients to connect before returning a reference to them. 
+   * If a fraction is provided, the Client_Manager will return that fraction of available clients.
+   * The Client_Manager can sample the clients based on their connection order or a random order. A function can also be provided to determine the selection of clients.
