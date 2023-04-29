@@ -40,8 +40,14 @@ Feder is composed of 4 phases, each phase building upon the last.
 
 4. **Phase 4: Intermediate client connections.** New clients will be able to join the server anytime and may even be included in a round that is already live.
 
+Phase 1: FedAvg
+---------------
 
+.. image:: ..imgs/phase1.png
+   :align: center
 
+Establishing Connection between Server and Clients
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
- 
+.. image:: ../imgs/connection.png
+   :align: center
