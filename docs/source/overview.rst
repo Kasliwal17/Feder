@@ -51,3 +51,9 @@ Establishing Connection between Server and Clients
 
 .. image:: ../imgs/connection.png
    :align: center
+
+Communication with clients
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ../imgs/communication.png
+   :align: center
