@@ -43,7 +43,7 @@ Feder is composed of 4 phases, each phase building upon the last.
 Phase 1: FedAvg
 ---------------
 
-.. image:: ..imgs/phase1.png
+.. image:: ../imgs/phase1.png
    :align: center
 
 Establishing Connection between Server and Clients

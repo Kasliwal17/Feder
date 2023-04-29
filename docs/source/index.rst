@@ -20,6 +20,7 @@ Contents
    tutorials
    contribution
    reference
+   api
 
 Citation
 ........
