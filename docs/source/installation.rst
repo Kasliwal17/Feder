@@ -1,34 +1,31 @@
-Usage
-=====
-
 .. _installation:
 
-Installation
-------------
+Installation 
+============
 
-To use Feder, first install it using pip:
+To use Feder, first install it from source or using pip:
 
-.. code-block:: console
+Source Code
+^^^^^^^^^^^
 
-   (.venv) $ pip install lumache
+Install **lastest version** from GitHub:
 
-Creating recipes
-----------------
+.. code-block:: shell-session
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+   $ git clone git@github.com:feder/feder.git
+   $ cd feder
 
-.. autofunction:: lumache.get_random_ingredients
+Install dependencies:
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+.. code-block:: shell-session
 
-.. autoexception:: lumache.InvalidKindError
+   $ pip install -r requirements.txt
 
-For example:
+Pip
+^^^
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Install **stable version** with pip:
 
+.. code-block:: shell-session
+
+   $ pip install feder==$version$
