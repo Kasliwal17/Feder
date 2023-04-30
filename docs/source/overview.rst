@@ -95,10 +95,10 @@ Steps in the Verification module
 Modified Federated Learning architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../imgs/verification1.png
+.. image:: ../imgs/verification_1.png
    :align: center
 
-.. image:: ../imgs/verification2.png
+.. image:: ../imgs/verification_2.png
    :align: center
 
 |
