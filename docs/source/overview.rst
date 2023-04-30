@@ -89,6 +89,9 @@ Steps in the Verification module
 .. image:: ../imgs/verification_steps.png
    :align: center
 
+|
+|
+
 Modified Federated Learning architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -96,4 +99,16 @@ Modified Federated Learning architecture
    :align: center
 
 .. image:: ../imgs/verification1.png
+   :align: center
+
+Phase 3: Timeout module
+-----------------------
+
+* Often in real world scenarios, clients cannot keep training indefinitely. Therefore, a timeout functionality has been implemented.
+* The server can specify a timeout parameter as a Train order configuration. The client will then train till the timeout occurs, and then return the results.
+
+Steps in the Timeout module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ../imgs/timeout.png
    :align: center
