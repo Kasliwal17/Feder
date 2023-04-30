@@ -83,6 +83,15 @@ Phase 2: Verification module
 * Before aggregation, the server passes the models to a Verification module, which then uses a predefined procedure to generate scores for models, and then returns only those models that have performed above a defined threshold.
 * The Verification module can be easily customized.
 
+Steps in the Verification module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ../imgs/verification_steps.png
+   :align: center
+
+Modified Federated Learning architecture
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. image:: ../imgs/verification.png
    :align: center
 
