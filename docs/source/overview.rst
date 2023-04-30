@@ -112,3 +112,12 @@ Steps in the Timeout module
 
 .. image:: ../imgs/timeout.png
    :align: center
+
+|
+
+Phase 4: Intermediate client connections module
+-----------------------------------------------
+
+* Now, even during the middle of a communication round, the server can accept new client connections, incorporate them into the Client_Manager and even include them in the ongoing communication round as well.
+* The server can be easily configured to allow or reject new connections during different parts of Federated Learning.
+* Safeguards to notify when a client has disconnected anytime have been implemented.
