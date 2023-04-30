@@ -75,3 +75,16 @@ Fractional and random subsampling
 
    * If a fraction is provided, the Client_Manager will return that fraction of available clients.
    * The Client_Manager can sample the clients based on their connection order or a random order. A function can also be provided to determine the selection of clients.
+
+Phase 2: Verification module
+----------------------------
+
+* After the server receives the trained weights, it aggregates all of them to form the new model. However, the selection of models for aggregation can be modified.
+* Before aggregation, the server passes the models to a Verification module, which then uses a predefined procedure to generate scores for models, and then returns only those models that have performed above a defined threshold.
+* The Verification module can be easily customized.
+
+.. image:: ../imgs/verification.png
+   :align: center
+
+.. image:: ../imgs/verification1.png
+   :align: center
