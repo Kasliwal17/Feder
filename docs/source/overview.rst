@@ -95,11 +95,14 @@ Steps in the Verification module
 Modified Federated Learning architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../imgs/verification.png
-   :align: center
-
 .. image:: ../imgs/verification1.png
    :align: center
+
+.. image:: ../imgs/verification2.png
+   :align: center
+
+|
+|
 
 Phase 3: Timeout module
 -----------------------
