@@ -126,7 +126,7 @@ Phase 4: Intermediate client connections module
 * Safeguards to notify when a client has disconnected anytime have been implemented.
 
 Tested on
----------
+~~~~~~~~~
 
 .. image:: ../imgs/tested.png
    :align: center

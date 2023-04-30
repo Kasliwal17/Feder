@@ -18,9 +18,10 @@ Contents
    
    overview
    installation
-   tutorials
+   tutorials/tutorial
    contribution
-   reference
+   .. 
+      reference
    api
 
 Citation
