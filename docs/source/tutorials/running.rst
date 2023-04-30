@@ -1,20 +1,21 @@
 .. _running:
 
 *******************************
-Starting the Server and Clients
+Running the Server and Clients
 *******************************
 
 Starting the Server
 -------------------
 
 The server is started by running the following command in the root directory of the framework:
+
 .. code-block:: console
 
     cd server
     python start_server.py
 
 Arguments that can be passed to the server are:
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: console
 
