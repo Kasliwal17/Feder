@@ -67,7 +67,7 @@ The training function should be implemented in the net_lib file, in a fashion si
     
     return net, gradient_x     
 
-After making the changes in the net_lib.py file, the client_lib.py file also needs to be updates so as to incorporate the newly defined algorithm. The client_lib.py file is located at client/src directory. The following code snippet shows the train function that needs to be updated in the client_lib.py file:
+After making the changes in the net_lib.py file, the client_lib.py file also needs to be updated so as to incorporate the newly defined algorithm. The client_lib.py file is located at client/src directory. The following code snippet shows the train function that needs to be updated in the client_lib.py file:
 
 .. code-block:: python
 
