@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'autoapi.extension',  # this one is really important
+    # 'autoapi.extension',  # this one is really important
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.mathjax',
