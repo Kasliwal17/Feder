@@ -15,16 +15,15 @@ Tutorials
    data distribution
    code carbon
    
-
-
-.. card:: Running Server and Client
+   
+.. card:: Running Server and Client (internal)
     :link: running
     :link-type: ref
     :class-card: sd-rounded-2 sd-border-1
 
     Step-by-step guide on running server and clients on same and different devices.
 
-.. card:: How to Customize Federated Learning Algorithm?
+.. card:: How to Customize Federated Learning Algorithm? (internal)
     :link: algorithm
     :link-type: ref
     :class-card: sd-rounded-2 sd-border-1

@@ -27,6 +27,9 @@ extensions = [
     'sphinx_design',
     'sphinxcontrib.bibtex',
 ]
+# for 'sphinxcontrib.bibtex' extension
+bibtex_bibfiles = ['refs.bib']
+bibtex_default_style = 'unsrt'
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -35,6 +38,12 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+# # configuration for 'autoapi.extension'
+# autoapi_type = 'python'
+# autoapi_dirs = ['../../fedlab']
+# autoapi_template_dir = '_autoapi_templates'
+# add_module_names = False  # makes Sphinx render package.module.Class as Class
 
 # -- Options for HTML output
 
