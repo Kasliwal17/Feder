@@ -22,10 +22,10 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
-    'sphinxcontrib.napoleon',
+    # 'sphinxcontrib.napoleon',
     'sphinx.ext.autosectionlabel',  # allows referring sections its title, affects `ref`
     'sphinx_design',
-    'sphinxcontrib.bibtex',
+    # 'sphinxcontrib.bibtex',
 ]
 # for 'sphinxcontrib.bibtex' extension
 bibtex_bibfiles = ['refs.bib']
