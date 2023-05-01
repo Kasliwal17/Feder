@@ -147,7 +147,7 @@ After making the changes in the net_lib.py file, the client_lib.py file also nee
 Implementing the aggregation function
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The aggregation function should be implemented within a class in a new file in the algorithms folder at server/src directory. The following code snippet shows the aggregation function for the mimelite algorithm as deffined in the mime.py file:
+The aggregation function should be implemented within a class in a new file in the algorithms folder at server/src directory. The following code snippet shows the aggregation function for the mimelite algorithm as deffined in the mimelite.py file:
 
 .. code-block:: python
 
