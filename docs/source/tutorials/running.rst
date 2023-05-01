@@ -35,3 +35,20 @@ Arguments that can be passed to the server are:
     --dataset MNIST
     --niid 2
     --carbon 0
+
+Starting the Clients
+--------------------
+
+The clients are started by running the following command in the root directory of the framework:
+
+.. code-block:: console
+
+    cd client
+    python start_client.py
+
+Arguments that can be passed to the clients are:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. code-block:: console
+
+    --device cuda

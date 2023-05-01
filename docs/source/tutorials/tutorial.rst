@@ -11,6 +11,11 @@ Tutorials
 
    running
    algorithm
+   dataset custom and torchvision
+   data distribution
+   code carbon
+   
+
 
 .. card:: Running Server and Client
     :link: running
