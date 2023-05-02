@@ -19,6 +19,7 @@ If you wish to contribute to the project by submitting code, you can do so by cr
 We encourage you to contribute to the enhancement of **Feder** or the implementation of existing FL methods within **Feder**. The recommended method for contributing to **Feder** is to fork the main repository on GitHub, clone it, and develop on a branch. Follow these steps:
 
 1. Click on "Fork" to fork the project repository.
+
 2. Clone your forked repository from your GitHub account to your local machine:
   
     .. code-block:: shell-session
@@ -50,3 +51,19 @@ We encourage you to contribute to the enhancement of **Feder** or the implementa
         $ git commit 
 
    to save your changes.
+
+Pull Request Checklist
+----------------------
+
+- Please follow the file structure below for new features or create new file if there are something new.
+
+    .. code-block:: shell-session
+
+        feder
+            ├── client 
+            │   ├── start_client          # file used to start client 
+            │   └── src                 # client related implementations
+            │       └── 
+            └── server 
+                ├──  start_server         # file used to start server
+                └── src                 # server related implementations
