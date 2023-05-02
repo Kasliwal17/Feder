@@ -26,7 +26,7 @@ We encourage you to contribute to the enhancement of **Feder** or the implementa
         
         $ git clone git@github.com:YourLogin/FedLab.git
 
-  and then navigate to the FedLab directory using the command
+    and then navigate to the FedLab directory using the command
     
     .. code-block:: shell-session
         

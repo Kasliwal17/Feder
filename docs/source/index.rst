@@ -20,8 +20,7 @@ Contents
    installation
    tutorials/tutorial
    contribution
-   .. 
-      reference
+   reference
    api
 
 Citation
