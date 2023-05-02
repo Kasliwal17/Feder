@@ -11,7 +11,7 @@ Tutorials
 
    running
    algorithm
-   dataset custom and torchvision
+   dataset
    data distribution
    code carbon
    
