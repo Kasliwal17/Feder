@@ -104,6 +104,9 @@ Feder allows the option to train with either IID or non-IID data distribution. T
 
             torch.save({'datapoints': datapoints, 'histograms': class_histogram, 'class_statitics': class_stats}, storepath + file_name)
 
+Visualizing the non-IID data distribution for CIFAR-10 dataset
+--------------------------------------------------------------
+
 
 
 
