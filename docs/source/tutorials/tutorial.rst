@@ -12,8 +12,8 @@ Tutorials
    running
    algorithm
    dataset
-   data distribution
-   code carbon
+   data_distribution
+   code_carbon
    
    
 .. card:: Running Server and Client (internal)
