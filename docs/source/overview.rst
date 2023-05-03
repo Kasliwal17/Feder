@@ -134,5 +134,18 @@ In **Feder** CodeCarbon package is used to estimate the carbon emissions generat
 Tested on
 ~~~~~~~~~
 
+**Feder** has been extensively tested on and works with the following devices:
+
+* Intel cpus
+* Nvidia gpus
+* AMD cpus
+* Nvidia Jetson
+* Raspberry Pi
+* Intel NUC
+
+|
+
+With Feder, it is possible to operate the server and clients on separate devices or on a single device through various means, such as utilizing different terminals or implementing multiprocessing.
+
 .. image:: ../imgs/tested.png
    :align: center
