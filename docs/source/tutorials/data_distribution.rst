@@ -113,35 +113,35 @@ Classwise distribution of samples among the clients for different non-IID distri
 .. figure:: ../../imgs/class_stats_0.png
     :align: center
 
-Classwise distribution of samples among the clients for non-IID distribution 1
+    Classwise distribution of samples among the clients for non-IID distribution 1
 
 |
 
 .. figure:: ../../imgs/class_stats_1.png
     :align: center
 
-Classwise distribution of samples among the clients for non-IID distribution 2
+    Classwise distribution of samples among the clients for non-IID distribution 2
 
 |
 
 .. figure:: ../../imgs/class_stats_2.png
     :align: center
 
-Classwise distribution of samples among the clients for non-IID distribution 3
+    Classwise distribution of samples among the clients for non-IID distribution 3
 
 |
 
 .. figure:: ../../imgs/class_stats_3.png
     :align: center
 
-Classwise distribution of samples among the clients for non-IID distribution 4
+C   lasswise distribution of samples among the clients for non-IID distribution 4
 
 |
 
 .. figure:: ../../imgs/class_stats_4.png
     :align: center
 
-Classwise distribution of samples among the clients for non-IID distribution 5
+    Classwise distribution of samples among the clients for non-IID distribution 5
 
 |
 
@@ -151,28 +151,28 @@ Samplewise distribution of samples among the clients for different non-IID distr
 .. figure:: ../../imgs/sample_stats_0.png
     :align: center
 
-Samplewise distribution of samples among the clients for non-IID distribution 1
+    Samplewise distribution of samples among the clients for non-IID distribution 1
 
 |
 
 .. figure:: ../../imgs/sample_stats_1.png
     :align: center
 
-Samplewise distribution of samples among the clients for non-IID distribution 2
+    Samplewise distribution of samples among the clients for non-IID distribution 2
 
 |
 
 .. figure:: ../../imgs/sample_stats_2.png
     :align: center
 
-Samplewise distribution of samples among the clients for non-IID distribution 3
+    Samplewise distribution of samples among the clients for non-IID distribution 3
 
 |
 
 .. figure:: ../../imgs/sample_stats_3.png
     :align: center
 
-Samplewise distribution of samples among the clients for non-IID distribution 4
+    Samplewise distribution of samples among the clients for non-IID distribution 4
 
 |
 
