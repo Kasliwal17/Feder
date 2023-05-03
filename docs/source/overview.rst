@@ -136,9 +136,9 @@ Tested on
 
 **Feder** has been extensively tested on and works with the following devices:
 
-* Intel cpus
-* Nvidia gpus
-* AMD cpus
+* Intel CPUs
+* Nvidia GPUs
+* AMD CPUs
 * Nvidia Jetson
 * Raspberry Pi
 * Intel NUC
