@@ -104,8 +104,86 @@ Feder allows the option to train with either IID or non-IID data distribution. T
 
             torch.save({'datapoints': datapoints, 'histograms': class_histogram, 'class_statitics': class_stats}, storepath + file_name)
 
-Visualizing the non-IID data distribution for CIFAR-10 dataset
---------------------------------------------------------------
+Visualizing the non-IID data distribution for MNIST dataset
+-----------------------------------------------------------
+
+Classwise distribution of samples among the clients for different non-IID distribution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: ...imgs/class_stats_0.png
+    align: center
+
+    Classwise distribution of samples among the clients for non-IID distribution 1
+
+|
+
+.. figure:: ...imgs/class_stats_1.png
+    align: center
+
+    Classwise distribution of samples among the clients for non-IID distribution 2
+
+|
+
+.. figure:: ...imgs/class_stats_2.png
+    align: center
+
+    Classwise distribution of samples among the clients for non-IID distribution 3
+
+|
+
+.. figure:: ...imgs/class_stats_3.png
+    align: center
+
+    Classwise distribution of samples among the clients for non-IID distribution 4
+
+|
+
+.. figure:: ...imgs/class_stats_4.png
+    align: center
+
+    Classwise distribution of samples among the clients for non-IID distribution 5
+
+|
+
+Samplewise distribution of samples among the clients for different non-IID distribution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: ...imgs/sample_stats_0.png
+    align: center
+
+    Samplewise distribution of samples among the clients for non-IID distribution 1
+
+|
+
+.. figure:: ...imgs/sample_stats_1.png
+    align: center
+
+    Samplewise distribution of samples among the clients for non-IID distribution 2
+
+|
+
+.. figure:: ...imgs/sample_stats_2.png
+    align: center
+
+    Samplewise distribution of samples among the clients for non-IID distribution 3
+
+|
+
+.. figure:: ...imgs/sample_stats_3.png
+    align: center
+
+    Samplewise distribution of samples among the clients for non-IID distribution 4
+
+|
+
+.. figure:: ...imgs/sample_stats_4.png
+    align: center
+
+    Samplewise distribution of samples among the clients for non-IID distribution 5
+
+
+
+
 
 
 
