@@ -138,7 +138,6 @@ Tested on
 
 * Intel CPUs
 * Nvidia GPUs
-* AMD CPUs
 * Nvidia Jetson
 * Raspberry Pi
 * Intel NUC
