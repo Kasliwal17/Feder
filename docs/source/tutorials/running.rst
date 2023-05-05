@@ -34,6 +34,7 @@ Arguments that can be passed to the server are:
 * --niid: This argument specifies the type of data distribution among clients. The type of this argument is integer, and the default value is 1. The value of this argument should be either 1 or 5.
 * --carbon: This argument specifies whether carbon emissions need to be tracked at the client side. The type of this argument is integer, and the default value is 0 (meaning that carbon emissions will not be tracked).
 
+
 Starting the Clients
 --------------------
 
