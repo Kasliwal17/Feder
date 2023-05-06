@@ -60,10 +60,39 @@ Pull Request Checklist
     .. code-block:: shell-session
 
         feder
-            ├── client 
-            │   ├── start_client          # file used to start client 
-            │   └── src                 # client related implementations
-            │       └── 
-            └── server 
-                ├──  start_server         # file used to start server
-                └── src                 # server related implementations
+            ├── client
+            │   ├── src
+            |   |   ├── client_lib
+            |   |   ├── client
+            |   |   ├── ClientConnection_pb2_grpc
+            |   |   ├── ClientConnection_pb2
+            |   |   ├── data_utils
+            |   |   ├── distribution
+            |   |   ├── get_data
+            |   |   ├── net_lib
+            |   |   ├── net
+            │   └── start_client
+            ├── server
+            │   ├── src
+            |   |   ├── algorithms
+            |   |   ├── server_evaluate
+            |   |   ├── client_connection_servicer
+            |   |   ├── client_manager
+            |   |   ├── client_wrapper
+            |   |   ├── ClientConnection_pb2_grpc
+            |   |   ├── ClientConnection_pb2
+            |   |   ├── server_lib
+            |   |   ├── server
+            |   |   ├── verification
+            │   └── start_server
+            ├── test
+            |   ├── misc
+            │   ├── test_algorithms
+            |   ├── test_datasets
+            │   ├── test_models
+            │   ├── test_modules
+            │   ├── test_results
+            │   └── test_scalability
+            └── tutorials
+                ├── Code_Carbon_Tutorial.ipynb
+                └── ...
