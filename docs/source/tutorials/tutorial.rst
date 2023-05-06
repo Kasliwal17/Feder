@@ -12,6 +12,7 @@ Tutorials
    running
    algorithm
    dataset
+   models
    data_distribution
    code_carbon
    
